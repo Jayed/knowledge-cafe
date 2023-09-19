@@ -1,0 +1,52 @@
+[
+  {
+    "id": 1,
+    "cover": "https://i.ibb.co/K58d7wj/cover-1.jpg",
+    "title": "Lorem Ipsum",
+    "author": "John Doe",
+    "author_img": "https://i.ibb.co/YZZhQGc/author-1.png",
+    "posted_date": "September 5, 2023",
+    "reading_time": 10,
+    "hashtag": "#LoremIpsum"
+  },
+  {
+    "id": 2,
+    "cover": "https://i.ibb.co/zGnWCtd/cover-5.png",
+    "title": "The Art of Programming",
+    "author": "Alice Smith",
+    "author_img": "https://i.ibb.co/sHDZSc5/author-2.jpg",
+    "posted_date": "September 6, 2023",
+    "reading_time": 15,
+    "hashtag": "#Programming"
+  },
+  {
+    "id": 3,
+    "cover": "https://i.ibb.co/tJ9VfXJ/cover-3.png",
+    "title": "Cooking with Style",
+    "author": "Bob Johnson",
+    "author_img": "https://i.ibb.co/Dk4szB5/author-3.jpg",
+    "posted_date": "September 7, 2023",
+    "reading_time": 12,
+    "hashtag": "#Cooking"
+  },
+  {
+    "id": 4,
+    "cover": "https://i.ibb.co/m5K3xPH/cover-4.jpg",
+    "title": "Travel Adventures",
+    "author": "Ella Brown",
+    "author_img": "https://i.ibb.co/BLLXT3X/author-4.jpg",
+    "posted_date": "September 8, 2023",
+    "reading_time": 20,
+    "hashtag": "#Travel"
+  },
+  {
+    "id": 5,
+    "cover": "https://i.ibb.co/zGnWCtd/cover-5.png",
+    "title": "Gardening Tips",
+    "author": "David Wilson",
+    "author_img": "https://i.ibb.co/CVsJ4sJ/author-5.png",
+    "posted_date": "September 9, 2023",
+    "reading_time": 8,
+    "hashtag": "#Gardening"
+  }
+]
